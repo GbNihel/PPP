@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PPP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Polytech Monastir</string>
+    <string name="nav_header_subtitle">www.polytechmonastir.tn</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_prep">Cycle préparatoire</string>
+    <string name="menu_elec">Cycle ingénieur Electrique</string>
+    <string name="menu_info">Cycle ingénieur Informatique</string>
+    <string name="menu_inscri">Inscription</string>
+    <string name="menu_local">Localisation</string>
+    <string name="menu_galerie">Galerie</string>
+
+    <string name="menu_tel">73 425 955</string>
+    <string name="menu_phone">25 711 711</string>
+    <string name="menu_facebook">Polytechmonastir</string>
+    <string name="menu_web">www.polytechmonastir.tn</string>
+    <string name="menu_mail">polytechniqueboukadida@gmail.com</string>
+</resources>

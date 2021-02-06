@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_prep"
+            android:icon="@drawable/ic_prep"
+            android:title="@string/menu_prep" />
+        <item
+            android:id="@+id/nav_elec"
+            android:icon="@drawable/ic_elec"
+            android:title="@string/menu_elec" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info"
+            android:title="@string/menu_info" />
+        <item
+            android:id="@+id/nav_inscri"
+            android:icon="@drawable/ic_inscri"
+            android:title="@string/menu_inscri" />
+        <item
+            android:id="@+id/nav_galerie"
+            android:icon="@drawable/ic_galerie"
+            android:title="@string/menu_galerie" />
+        <item
+            android:id="@+id/nav_local"
+            android:icon="@drawable/ic_local"
+            android:title="@string/menu_local" />
+    </group>
+
+    <item android:title="Contact">
+        <menu>
+            <item
+                android:id="@+id/nav_tel"
+                android:icon="@drawable/ic_tel"
+                android:title="@string/menu_tel" />
+            <item
+                android:id="@+id/nav_phone"
+                android:icon="@drawable/ic_phone"
+                android:title="@string/menu_phone" />
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/ic_facebook"
+                android:title="@string/menu_facebook" />
+            <item
+                android:id="@+id/nav_web"
+                android:icon="@drawable/ic_web"
+                android:title="@string/menu_web" />
+            <item
+                android:id="@+id/nav_mail"
+                android:icon="@drawable/ic_mail"
+                android:title="@string/menu_mail" />
+        </menu>
+    </item>
+
+</menu>
